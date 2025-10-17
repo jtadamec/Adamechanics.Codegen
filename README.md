@@ -9,3 +9,4 @@
 - Videos
   - [Jason Bock - Using Source Generators for Fun (and Maybe Profit)
 ](https://www.youtube.com/watch?v=4DVV7FXukC8)
+  - [Jason Bock - More Talk About Source Generators (2024)](https://www.youtube.com/watch?v=zsUqULAvu38)
